@@ -36,14 +36,14 @@ This GitHub Actions workflow implements a robust Continuous Integration and Cont
 
 Key Features:
 
-    Automated Updates: Upon any push to the main branch, the workflow automatically triggers, streamlining the deployment process.
-    Streamlined Workflow: Manual updates to the S3 bucket are no longer necessary. Changes to your website's source code seamlessly synchronize with the S3 bucket, ensuring your website reflects the latest version.
-    Improved Efficiency: This automation saves time and effort, allowing you to focus on website development and maintenance tasks.
+Automated Updates: Upon any push to the main branch, the workflow automatically triggers, streamlining the deployment process.
+Streamlined Workflow: Manual updates to the S3 bucket are no longer necessary. Changes to your website's source code seamlessly synchronize with the S3 bucket, ensuring your website reflects the latest version.
+Improved Efficiency: This automation saves time and effort, allowing you to focus on website development and maintenance tasks.
 
 Benefits:
 
-    Reduced Errors: Manual updates are prone to human error. Automating deployment minimizes the risk of errors and inconsistencies.
-    Increased Reliability: Consistent and automated deployment ensures a reliable and up-to-date website experience for your users.
-    Faster Deployment: Updates are deployed swiftly, minimizing downtime and maintaining a smooth user experience.
+Reduced Errors: Manual updates are prone to human error. Automating deployment minimizes the risk of errors and inconsistencies.
+Increased Reliability: Consistent and automated deployment ensures a reliable and up-to-date website experience for your users.
+Faster Deployment: Updates are deployed swiftly, minimizing downtime and maintaining a smooth user experience.
 
 This CI/CD pipeline empowers you to efficiently manage your website deployments and deliver the latest version to your users promptly.
