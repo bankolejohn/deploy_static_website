@@ -47,3 +47,5 @@ Increased Reliability: Consistent and automated deployment ensures a reliable an
 Faster Deployment: Updates are deployed swiftly, minimizing downtime and maintaining a smooth user experience.
 
 This CI/CD pipeline empowers you to efficiently manage your website deployments and deliver the latest version to your users promptly.
+
+![ci_s3](https://github.com/bankolejohn/deploy_static_website/assets/76499525/ac20ddc9-0a0f-41fb-aa1d-e5d48d257558)
